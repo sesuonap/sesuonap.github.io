@@ -17,7 +17,7 @@ h1 {
   color: black;
   text-transform: uppercase;
   letter-spacing: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 .content {
@@ -60,7 +60,7 @@ ul {
 }
 
 .location {
-  text-align: left;
+  text-align: right;
   font-size: 2rem;
 }
 
